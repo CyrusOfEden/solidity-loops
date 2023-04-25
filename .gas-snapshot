@@ -1,0 +1,2 @@
+LooperTest:testAscendingForWithCachedLength(uint256[]) (runs: 8196, μ: 56890, ~: 56693)
+LooperTest:testDescendingFor(uint256[]) (runs: 8196, μ: 56639, ~: 56442)
